@@ -47,6 +47,9 @@ cd medcare-ai-health-platform
 npm install
 npm run dev
 ```
+## Hosting link
+**Hosted the project at Netlify **
+https://peppy-sopapillas-e35df6.netlify.app/#
 
 ## 🤝 Contributing
 
